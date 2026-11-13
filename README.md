@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SirTEdgar!
+# 👋 Hey, I'm SirT!
 
 <h3 align="center">Data Scientist | Machine Learning Developer | Software Engineer</h3>
 
