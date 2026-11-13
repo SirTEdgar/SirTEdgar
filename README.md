@@ -8,9 +8,16 @@
 
 ---
 
+📫 How to reach me: 
+@dextertsinanga@gmail.com
+@tsinangae@gmail.com
++254758308466
+
 ## 🚀 About Me
 
 I'm a developer passionate about building intelligent systems, solving real-world problems through data, and developing practical software applications.
+
+
 
 - 🔭 Working on Machine Learning and AI-powered projects.
 - 📊 Interested in Data Science, Analytics and Predictive Modelling.
@@ -65,24 +72,6 @@ A data analytics project exploring NLP-based text classification and automatic c
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SirTEdgar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirTEdgar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SirTEdgar/SirTEdgar/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation" />
-</p>
-
----
-
-<p align="center">
   <b>Building. Learning. Innovating.</b>
   <br/>
   Thanks for visiting my profile! 🚀
